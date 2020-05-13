@@ -1,0 +1,11 @@
+.title-wrapper {
+  background-color: #a3d3ff;
+  width: 205px;
+  border-radius: 10px;
+}
+
+.title {
+  padding: 10px 10px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
